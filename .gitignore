@@ -1,3 +1,15 @@
 .DS_Store
 node_modules/
 build/
+idea/
+/.idea/material-sense.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/package-lock.json
+/screenshot-cards.png
+/screenshot-dashboard.png
+/screenshot-signup.png
+/screenshot-wizard.png
+/.idea/vcs.xml
+/yarn.lock
+/.idea/.gitignore
